@@ -12,4 +12,4 @@ Each take home challenge is in its folder and contains the data file(s) as well 
 <br> The challenge description is included at the beginning of each notebook
 
 ## Credits
-The challenges are from the book "A Collection of Data Science Take-Home Challenges authored by Giulio Palombo
+The challenges are from the book __A Collection of Data Science Take-Home Challenges__ authored by Giulio Palombo
