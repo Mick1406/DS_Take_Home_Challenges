@@ -1,5 +1,5 @@
 # DS_Take_Home_Challenges
-This repo contains the solutions to a few Data Science take home challenges I did for practice. All of these were completed in about 1 hour.
+This repo contains the solutions to a few Data Science take home challenges I did for practice. Those are a bit easier than real-life challenge though.
 <br>
 
 ## Take home challenges
