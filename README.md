@@ -1,5 +1,5 @@
 # DS_Take_Home_Challenges
-This repo contains the solutions to a few Data Science take home challenges I did for practice. Those are a bit easier than real-life challenge though.
+This repo contains the solutions to a few Data Science take home challenges I did for practice. Those are a bit easier than the typical take home challenges I got from most companies I applied to though.
 <br>
 
 ## Take home challenges
